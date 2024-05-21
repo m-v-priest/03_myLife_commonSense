@@ -1,0 +1,11 @@
+
+
+
+
+.name
+[%collapsible]
+====
+
+====
+
+注意: 在最终决定用 chrome 来打印成 pdf 时, 就把 [%collapsible] 替换成 [%collapsible%open] , 这样, 所有的折叠内容, 会自动打开, 就省得你一个个手动打开了.
