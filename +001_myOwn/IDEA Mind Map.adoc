@@ -1,0 +1,30 @@
+
+=  IDEA Mind Map 使用说明
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|缩放画布
+|ctrl + 鼠标滚轮
+
+|添加子节点
+|tab
+
+|添加平行节点
+|回车
+
+|添加两个节点间的箭头指向线
+|按住ctrl 把b节点, 拖到a节点上, 会创建一个从 a 直接点 b 的箭头线条
+
+|在节点间导航
+|键盘的上下左右方向键
+|===
+
