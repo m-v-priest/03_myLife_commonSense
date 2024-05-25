@@ -1,0 +1,9 @@
+
+= 科学, 科学研究方法
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
