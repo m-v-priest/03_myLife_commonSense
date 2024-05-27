@@ -1,24 +1,33 @@
 
-= 数学学习
+= 学习
 :toc: left
 :toclevels: 3
 :sectnums:
-//:stylesheet: myAdocCss.css
+:stylesheet: myAdocCss.css
 
 '''
+
+== 核心
+
+.学习不彻底, 半途而废, 就是99%=0
+[%collapsible%close]
+====
+- 日本人向西方学习, 是一直老老实实地学，直到甲午海战时，那些英国教习官还在日本军舰上任职. *而我们一直嚷嚷要中国化、本土化，老早就把这些洋教习赶跑了, 所以都没学到位, 马马虎虎, 不认真 (天下凡事，就怕"认真"两个字)。*
+
+'''
+====
+
+
+
+
 
 == 数学学习方法论
 
 - 数学只分为三种: 你没见过的、你没理解的、你已经忘记的.
 
-
-
-'''
-
-== other
-
-
-==== 数学奖 : ① Fields Medal, ② Abel Prize
+.数学奖 : ① Fields Medal, ② Abel Prize
+[%collapsible%close]
+====
 
 [.small]
 [options="autowidth" cols="1a,1a"]
@@ -44,14 +53,9 @@
 
 
 
+'''
+====
 
 
 
-
-
-
-
-
-
-
-
+== 英语学习方法论
