@@ -1,0 +1,54 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="462" height="155" viewBox="0 0 462 155" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-358.00,-188.00)">
+        <g transform="translate(359.00,288.00)" id="shape1">
+            <path fill="none" stroke="#999999" d="M.0,.0L120.0,.0L120.0,52.0L.0,52.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="34.0" y="22.0">贩毒头目</tspan>
+                <tspan x="47.0" y="41.0">糯康</tspan>
+            </text>
+        </g>
+        <g transform="translate(699.00,288.00)" id="shape2">
+            <path fill="none" stroke="#999999" d="M.0,.0L120.0,.0L120.0,52.0L.0,52.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="34.0" y="31.5">泰国军方</tspan>
+            </text>
+        </g>
+        <g transform="translate(529.00,189.00)" id="shape3">
+            <path fill="none" stroke="#999999" d="M.0,.0L120.0,.0L120.0,73.0L.0,73.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.5" y="23.0">劫持中国商船, </tspan>
+                <tspan x="27.5" y="42.0">再放上毒品</tspan>
+                <tspan x="21.0" y="61.0">（栽赃陷害）</tspan>
+            </text>
+        </g>
+        <g transform="translate(420.20,288.00)" id="shape4">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,-59.1L102.8,-59.1"/>
+            <path fill="#191919" stroke="#191919" stroke-width="1" d="M102.8,-62.1L108.8,-59.1L102.8,-56.1L102.8,-62.1" stroke-linecap="round"/>
+            <rect x="14.0" width="76.0" y="-78.1" height="19.0" fill="#ffffff"/>
+            <rect x="26.0" width="52.0" y="-59.1" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="14.0" y="-63.1">1.给警察提供</tspan>
+                <tspan x="26.0" y="-44.1">升职业绩</tspan>
+            </text>
+        </g>
+        <g transform="translate(756.24,288.00)" id="shape5">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,-57.2L-101.2,-57.2"/>
+            <path fill="#191919" stroke="#191919" stroke-width="1" d="M-101.2,-54.2L-107.2,-57.2L-101.2,-60.2L-101.2,-54.2" stroke-linecap="round"/>
+            <rect x="-68.0" width="26.0" y="-66.7" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-68.0" y="-51.7">查处</tspan>
+            </text>
+        </g>
+        <g transform="translate(699.00,319.85)" id="shape6">
+            <path fill="none" stroke="#191919" d="M.0,.0L-214.0,.0"/>
+            <path fill="#191919" stroke="#191919" stroke-width="1" d="M-214.0,3.0L-220.0,.0L-214.0,-3.0L-214.0,3.0" stroke-linecap="round"/>
+            <rect x="-156.7" width="102.0" y="-19.0" height="19.0" fill="#ffffff"/>
+            <rect x="-131.7" width="52.0" y="0.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-156.7" y="-4.0">2.对糯康贩毒集团</tspan>
+                <tspan x="-131.7" y="15.0">网开一面</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
