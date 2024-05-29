@@ -1,12 +1,5 @@
 
-= 概率与统计学
-:toc: left
-:toclevels: 3
-:sectnums:
-:stylesheet: myAdocCss.css
-
-'''
-
+= (统计与概率) 人们在统计中会犯那些错误
 
 .欺骗方法: 选择性挑选数据
 [%collapsible%open]
@@ -55,8 +48,5 @@ image:../img/0044.jpg[,70%]
 
 '''
 ====
-
-
-
 
 
