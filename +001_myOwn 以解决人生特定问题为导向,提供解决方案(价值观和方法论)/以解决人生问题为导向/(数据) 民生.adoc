@@ -11,3 +11,17 @@ image:../img/0057.png[,40%]
 '''
 ====
 
+== 老龄化
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |latexmath:[ \frac{60岁及以上人口}{全国人口}]
+
+
+|2023年末
+|21.1%
+|===
+
+
+
