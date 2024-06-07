@@ -1,0 +1,28 @@
+
+= (医疗)数据排名
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+
+== U.S.News Best Hospitals 美国最佳医院榜单
+
+《美国新闻与世界报道》每年都会评估超过 5,000 家医院。
+
+
+How and Why We Rank and Rate Hospitals +
+我们如何以及为何对医院进行排名和评级
+
+https://health.usnews.com/health-care/best-hospitals/articles/faq-how-and-why-we-rank-and-rate-hospitals#best-hospitals
+
+
+
+
+
+
+
+
+
