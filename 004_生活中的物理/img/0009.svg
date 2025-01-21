@@ -1,0 +1,38 @@
+<svg viewBox="0 0 368 141" height="141" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="368">
+    <defs/>
+    <g transform="translate(-231.81,-188.00)">
+        <g id="shape1" transform="translate(499.15,222.76)">
+            <path d="M79.7,54.5L79.7,.0L.0,.0L.0,54.5L79.7,54.5z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="13.9" y="32.7">塑料梳子</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(252.96,222.76)">
+            <path d="M79.7,54.5L79.7,.0L.0,.0L.0,54.5L79.7,54.5z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.9" y="32.7">头发</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(332.66,250.00)">
+            <path d="M.0,.0L160.5,.0" stroke="#191919" fill="none"/>
+            <path d="M160.5,-3.0L166.5,.0L160.5,3.0L160.5,-3.0" stroke-linecap="round" stroke="#191919" stroke-width="1" fill="#191919"/>
+            <rect height="19.0" width="52.0" fill="#ffffff" x="53.6" y="-19.0"/>
+            <rect height="19.0" width="52.0" fill="#ffffff" x="53.6" y="0.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="53.6" y="-4.0">阴气过来</tspan>
+                <tspan x="53.6" y="15.0">电子过来</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(479.00,189.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="28.0" y="24.5">带"负电荷"</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(232.81,274.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="32.5" y="23.0">阴气逃离,</tspan>
+                <tspan x="28.0" y="42.0">带"正电荷"</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
