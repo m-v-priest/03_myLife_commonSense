@@ -41,7 +41,7 @@ image:/img/电学 0002.png[,70%]
 |库伦定律 Coulomb's law
 |库仑定律, 是静止点电荷, 相互作用力的规律。 +
 
-latexmath:[ F= k\dfrac{q_1 q_2} {r^2}]
+latexmath:[ \boxed{ F= k\dfrac{q_1 q_2} {r^2} }]
 
 库伦由实验得出，**真空中两个静止的点, 电荷之间的相互作用力, 同它们的"电荷量的乘积, 即 latexmath:[q_1 q_2 ]"成正比，与"它们的距离的二次方, 即 latexmath:[ r^2]"成反比，**作用力的方向, 在它们的连线上，"同名电荷"相斥，"异名电荷"相吸。
 
@@ -663,7 +663,7 @@ image:/img/电学 0106.png[,60%]
 
 == 电流 (electric current)  的强弱 -> 用"电流"表示, 英文用 I (Intensity 强度) 表示
 
-latexmath:[ 电流 Intensity = \dfrac{通过"导体横截面"的电荷量 Q}{time}]
+latexmath:[ \boxed{ 电流 Intensity = \dfrac{通过"导体横截面"的电荷量 Q}{time} }]
 
 I 为"电流"（单位是安培）， +
 Q 为"电量"（单位是库仑）， Q is the electric charge transferred (v.) through the surface over a time t.  +
